@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Outfit;
+    src: url(Fonts/Outfit-VariableFont_wght.ttf);
+}
+
+body{
+    background-color: rgba(213,225,239,255);
+}
+
+#Container{
+    margin: auto;
+    width: 23%;
+    background-color: white;
+    border-radius: 4%;
+    height: fit-content;
+}
+
+#QRimage{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+img{
+    border-radius: 4%;
+}
+
+#ImageText{
+    width: 80%;
+    text-align: center;
+    font-family: Outfit;
+    margin: auto;
+    padding-bottom: 5%;
+}
+
+#LightText{
+    color: rgba(187,192,204,255);
+    font-family: Outfit;
+}
